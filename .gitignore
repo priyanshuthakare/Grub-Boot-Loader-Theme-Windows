@@ -1,0 +1,13 @@
+# Grub backup files
+00_header*
+*.bak
+
+# Python cache & generated logos
+__pycache__/
+*.py[cod]
+minegrub/cache/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
