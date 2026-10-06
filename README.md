@@ -13,15 +13,6 @@
 
 ---
 
-## 📸 Interface Demos
-
-### Real Hardware Boot Preview
-Here is Minegrub running live on actual hardware (Full HD 1080p dual-booting Windows and Garuda Linux):
-
-<p align="center">
-  <img src="resources/boot_preview.jpg" alt="Minegrub Live Hardware Boot" width="80%">
-</p>
-
 ### 🎨 Included HD Minecraft Wallpapers (1080p)
 The theme comes bundled with **13 high-definition Minecraft update wallpapers** that can be shuffled automatically on every boot or selected manually:
 
